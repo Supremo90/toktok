@@ -1,0 +1,5 @@
+.bg-light{background-color: #fff !important;}
+.toktok_logo{object-fit: contain;max-width: 40px; transform: rotate(180deg);filter: sepia(1);}
+.toktok_elements{display: flex;justify-content: center;align-items: flex-end !important;}
+.toktok_hamburger{position: relative;top: 10px;}
+.bor{border:1px solid red;}

@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.toktok_str{
+  transform: scale(0.8);
+  margin: 20px auto;
+}
